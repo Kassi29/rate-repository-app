@@ -8,6 +8,8 @@ import SignIn from './SignIn';
 const styles = StyleSheet.create({
   container: {
     backgroundColor: theme.colors.backgroundApp,
+    flex: 1,
+    flexGrow: 1,
   },
 });
 
