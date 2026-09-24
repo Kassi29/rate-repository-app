@@ -22,7 +22,7 @@ const StatItem = ({label, count}) => {
 const styles = StyleSheet.create({
   item: {
     alignItems: 'center',
-    padding: '3',
+    padding: 3,
   },
 });
 
